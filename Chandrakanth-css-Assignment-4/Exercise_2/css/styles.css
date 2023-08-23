@@ -1,0 +1,39 @@
+.content{
+    width: 50%;
+    height: 73%;
+    background-color: rgb(116, 235, 116);
+    margin-left: 15%;
+    margin-right: 20;
+}
+#name{
+    margin-left: 2%;
+    align-items: center;
+}
+legend{
+    text-align: center;
+    font-size:30px;
+}
+#fname{
+    padding-top: 5%;
+   
+    padding-left: 40%;
+}
+fieldset{
+    margin-top: 15%;
+    margin-left: 4%;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+
+    text-align:center;
+}
+#add{
+    width: 200px;
+    height: 80px;
+}
+#bt1{
+    border-radius: 5px;
+}
+body{
+    background-color: burlywood;
+}

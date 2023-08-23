@@ -1,0 +1,55 @@
+h1{
+    margin-right: 80%;
+}
+.body{
+margin-top: 50%;
+}
+.content{
+    align-items: center;
+    max-width: 600px;
+    margin: auto;
+    background-color: #0A3F88;
+    color: #F7E105;
+    margin-top: -20px;
+}
+.Signup{
+    max-width: 600px;
+    background-color: orange;
+    margin:0%;
+    margin-bottom: -20px;
+    padding: 0px;
+}
+#fname{
+    
+}
+#name{
+    margin-left: 4%;
+}
+#ame{
+    margin-left: 3%;
+}
+.footer{
+    display: flex;
+    max-width: 600px;
+    background-color: orange;
+    margin:0%;
+    margin-top: -20px;
+    padding: 0px;
+    height: 35px;
+
+}
+.footer button{
+    float: left;
+    max-width: 900px;
+   gap: 5px;
+    padding: 10px;
+    align-items: center;
+    margin-top: 0px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 50%;
+    color: white;
+}
+#btn1{
+    margin-left: 80%;
+}

@@ -1,0 +1,124 @@
+html,body{
+    margin:0px;
+    overflow: hidden;
+}
+
+
+.container {
+    position: relative;
+    background-color: #bca1d6;
+    height: 8vh;
+    display: flex;
+    flex-direction: row;
+}
+.container span{
+    position: absolute;
+    right: 20px;
+    gap:30px;
+    display: flex;
+
+}
+
+.icon{
+width: 8vw;
+height: 8vh;
+border-radius: 20px;
+}
+.add,.threedots{
+    width: 4vw;
+    height: 5vh;
+    padding-top: 1vh;
+}
+
+.userlist{
+    background-color: rgb(235, 235, 247);
+    height: 700px; /* Set the desired height for the container */
+    overflow: auto;
+}
+.header{
+    background-color:#4D276F;
+}
+.mainbody {
+    display: flex;
+    justify-content: space-between;
+}
+.msg1{
+    text-align: right;
+background-color: beige;
+height: 6vh;
+display: inline;
+}
+.msg{
+    text-align: left;
+background-color: aqua;
+height: 6vh;
+display: inline;
+}
+
+.mainbody > div {
+    flex-basis: 50%;
+    /* You can add other styling here for each div if needed */
+}
+
+.chart{
+  
+    display:flex;
+    flex-direction: column;
+}
+.chart-div{
+    display:flex;
+    flex-direction: column;
+}
+*{
+    margin: 0px;
+}
+
+.footer{
+    background-color: #430D77;
+   
+margin-top: 400px;
+display: flex;
+gap: 20px;
+
+}
+.footer i{
+    margin-top: 10px;
+    font-size: 30px;
+
+}
+.textmesg{
+    border: solid;
+    padding: 5px;
+    font-size: 26px;
+    width: 600px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: black;
+
+    
+}
+
+
+.profile{
+    height:50px ;
+    width: 50px;
+    border-radius: 50%;
+    border-width: 2px;
+    border-style: solid;
+}
+.name-holder{
+    display: inline-block;
+    width: 600px;
+}
+.friends{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 24px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 4px ;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}

@@ -1,0 +1,19 @@
+#p1{
+    text-align: left;
+    color: white;
+}
+#p2{
+    text-align: right;
+    color: brown;
+}
+#p3{
+    text-align:center ;
+    color: green;
+}
+body{
+    background-color: rgb(255, 47, 234);
+}
+h1{
+    color: blue;
+    text-align: center;
+}

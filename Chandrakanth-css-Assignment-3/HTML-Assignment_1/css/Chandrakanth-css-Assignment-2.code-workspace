@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Chandrakanth-css-Assignment-2"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Chandrakanth-css-Assignment1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chandrakanth"
+	}
+}

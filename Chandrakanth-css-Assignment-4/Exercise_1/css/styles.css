@@ -1,0 +1,28 @@
+.heading{
+    align-items: center;
+    color: blue;
+    padding-top:5px;
+    padding-bottom: 5px;
+   padding-left: 5px;
+   padding-right: 5px;
+}
+#main{
+    padding: 10px;
+    border-style: solid;
+}
+#row{
+    padding: 15px;
+}
+#bord{
+    padding-top:10px;
+     padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#bord1{
+    margin-left: 5px ;
+    padding-top:20px;
+     padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
